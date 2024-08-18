@@ -3,4 +3,6 @@
   "bpm":"100",
   "composer":"Kawai Sprite",
   "charter":"IdealistCat",
+  "files_prefix":"",
+  "difficulties":["easy", "normal", "hard"]
 }
